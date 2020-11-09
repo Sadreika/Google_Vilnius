@@ -1,0 +1,13 @@
+C:\Users\mariu\Documents\GitHub\GoogleVilnius\GoogleVilnius\GoogleVilnius\bin\Debug\GoogleVilnius.exe.config
+C:\Users\mariu\Documents\GitHub\GoogleVilnius\GoogleVilnius\GoogleVilnius\bin\Debug\GoogleVilnius.exe
+C:\Users\mariu\Documents\GitHub\GoogleVilnius\GoogleVilnius\GoogleVilnius\bin\Debug\GoogleVilnius.pdb
+C:\Users\mariu\Documents\GitHub\GoogleVilnius\GoogleVilnius\GoogleVilnius\bin\Debug\RestSharp.dll
+C:\Users\mariu\Documents\GitHub\GoogleVilnius\GoogleVilnius\GoogleVilnius\bin\Debug\RestSharp.xml
+C:\Users\mariu\Documents\GitHub\GoogleVilnius\GoogleVilnius\GoogleVilnius\obj\Debug\GoogleVilnius.csprojAssemblyReference.cache
+C:\Users\mariu\Documents\GitHub\GoogleVilnius\GoogleVilnius\GoogleVilnius\obj\Debug\GoogleVilnius.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Documents\GitHub\GoogleVilnius\GoogleVilnius\GoogleVilnius\obj\Debug\GoogleVilnius.csproj.CopyComplete
+C:\Users\mariu\Documents\GitHub\GoogleVilnius\GoogleVilnius\GoogleVilnius\obj\Debug\GoogleVilnius.exe
+C:\Users\mariu\Documents\GitHub\GoogleVilnius\GoogleVilnius\GoogleVilnius\obj\Debug\GoogleVilnius.pdb
+C:\Users\mariu\Documents\GitHub\GoogleVilnius\GoogleVilnius\GoogleVilnius\bin\Debug\HtmlAgilityPack.dll
+C:\Users\mariu\Documents\GitHub\GoogleVilnius\GoogleVilnius\GoogleVilnius\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\mariu\Documents\GitHub\GoogleVilnius\GoogleVilnius\GoogleVilnius\bin\Debug\HtmlAgilityPack.xml
