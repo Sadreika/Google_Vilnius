@@ -11,3 +11,16 @@ C:\Users\mariu\Documents\GitHub\GoogleVilnius\GoogleVilnius\GoogleVilnius\obj\De
 C:\Users\mariu\Documents\GitHub\GoogleVilnius\GoogleVilnius\GoogleVilnius\bin\Debug\HtmlAgilityPack.dll
 C:\Users\mariu\Documents\GitHub\GoogleVilnius\GoogleVilnius\GoogleVilnius\bin\Debug\HtmlAgilityPack.pdb
 C:\Users\mariu\Documents\GitHub\GoogleVilnius\GoogleVilnius\GoogleVilnius\bin\Debug\HtmlAgilityPack.xml
+C:\Users\msa\OneDrive - Infare\Documents\GitHub\Google_Vilnius\GoogleVilnius\bin\Debug\GoogleVilnius.exe.config
+C:\Users\msa\OneDrive - Infare\Documents\GitHub\Google_Vilnius\GoogleVilnius\bin\Debug\GoogleVilnius.exe
+C:\Users\msa\OneDrive - Infare\Documents\GitHub\Google_Vilnius\GoogleVilnius\bin\Debug\GoogleVilnius.pdb
+C:\Users\msa\OneDrive - Infare\Documents\GitHub\Google_Vilnius\GoogleVilnius\bin\Debug\HtmlAgilityPack.dll
+C:\Users\msa\OneDrive - Infare\Documents\GitHub\Google_Vilnius\GoogleVilnius\bin\Debug\RestSharp.dll
+C:\Users\msa\OneDrive - Infare\Documents\GitHub\Google_Vilnius\GoogleVilnius\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\msa\OneDrive - Infare\Documents\GitHub\Google_Vilnius\GoogleVilnius\bin\Debug\HtmlAgilityPack.xml
+C:\Users\msa\OneDrive - Infare\Documents\GitHub\Google_Vilnius\GoogleVilnius\bin\Debug\RestSharp.xml
+C:\Users\msa\OneDrive - Infare\Documents\GitHub\Google_Vilnius\GoogleVilnius\obj\Debug\GoogleVilnius.csprojAssemblyReference.cache
+C:\Users\msa\OneDrive - Infare\Documents\GitHub\Google_Vilnius\GoogleVilnius\obj\Debug\GoogleVilnius.csproj.CoreCompileInputs.cache
+C:\Users\msa\OneDrive - Infare\Documents\GitHub\Google_Vilnius\GoogleVilnius\obj\Debug\GoogleVilnius.csproj.CopyComplete
+C:\Users\msa\OneDrive - Infare\Documents\GitHub\Google_Vilnius\GoogleVilnius\obj\Debug\GoogleVilnius.exe
+C:\Users\msa\OneDrive - Infare\Documents\GitHub\Google_Vilnius\GoogleVilnius\obj\Debug\GoogleVilnius.pdb
